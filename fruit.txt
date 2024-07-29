@@ -1,5 +1,6 @@
 banana
 peach
 tomato
-strawberry
+melon
 mango
+orange
